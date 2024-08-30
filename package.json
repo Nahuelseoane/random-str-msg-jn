@@ -1,0 +1,19 @@
+{
+  "name": "random-str-msg-jn",
+  "version": "1.0.0",
+  "description": "Random String Me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Nahuel Seoane <nahuelseoane@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-str-msg-jn": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "user": "^0.0.0"
+  }
+}
