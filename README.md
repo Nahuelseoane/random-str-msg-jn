@@ -1,2 +1,6 @@
 # random-str-msg-jn
-Random String Me
+
+A PNM package
+Practice having published a package and using it.
+
+This package shows a random message.
